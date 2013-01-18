@@ -1,0 +1,4 @@
+CADatesManager
+==============
+
+Dates utilities
